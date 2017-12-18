@@ -1,3 +1,1 @@
-# A3BC_Wasteland.Altis
-
-# APENAS BANIMENTOS POR MOTIVOS DE HACK
+# Jogadores banidos por uso de HACK
