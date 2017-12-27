@@ -10,3 +10,5 @@ a9f9b241cfd83eeaa702eb2cc5173c13 -1 A3BC : GameHack
 d05c6ff87cbd13a91061edf2b8f23858 -1 A3BC : GameHack
 65c584351f376f91fa0d091bc7688b27 -1 A3BC : GameHack
 b6b31644491e2ebcbdbdc8d3473104d0 -1 A3BC : GameHack
+6b82ad0a746b01c4ae44d5f15a207a3c -1 BEC : GameHack #38
+772b239a66ff05e49f6c28a91150f2a3 -1 A3BC : GameHack
