@@ -12,3 +12,5 @@ d05c6ff87cbd13a91061edf2b8f23858 -1 A3BC : GameHack
 b6b31644491e2ebcbdbdc8d3473104d0 -1 A3BC : GameHack
 6b82ad0a746b01c4ae44d5f15a207a3c -1 BEC : GameHack #38
 772b239a66ff05e49f6c28a91150f2a3 -1 A3BC : GameHack
+627d8fc8af8241cc356428cf8e22321f -1 A3BC : Money dumping e antijogo
+26776a94073276932d351f0d87777b37 -1 A3BC : Money dumping e antijogo
